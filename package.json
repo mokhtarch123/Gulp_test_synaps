@@ -1,0 +1,20 @@
+{
+  "name": "gulp_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp": "^3.9.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-less": "^3.5.0",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
